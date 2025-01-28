@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Welcome to Looksmaxxing Hub, your ultimate destination for achieving
+        your peak appearance and confidence!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
