@@ -158,7 +158,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Screenshot_28-1-2025_174136_web.whatsapp.com.jpeg
           altText: Placeholder text
           elementId: ''
           styles:
