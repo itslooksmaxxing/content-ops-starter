@@ -104,10 +104,7 @@ sections:
               borderRadius: x-large
       - title: Boost Confidence and Presence
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "\nLearn how to enhance your appearance, improve your posture, and radiate confidence in every aspect of your life—whether it’s personal, professional, or social. \U0001F4AA\n\n"
         image:
           url: /images/icon2.svg
           altText: Featured icon two
