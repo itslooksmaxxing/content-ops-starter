@@ -41,7 +41,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/454385767_1212432859905105_6479771403221106750_n.jpg
+      url: /images/57dbffd654e3580d51e60e451c5850f9.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
