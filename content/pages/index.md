@@ -68,7 +68,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: '"Elevate Your Confidence, Enhance Your Appearance, Unlock Your Best Self."'
     items:
       - type: FeaturedItem
         title: Personalized Self-Improvement Tips
