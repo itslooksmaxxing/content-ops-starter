@@ -188,7 +188,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: looksmaxxing
+      label: mog everyone
       color: text-primary
       styles:
         self:
