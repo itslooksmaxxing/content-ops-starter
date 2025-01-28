@@ -10,11 +10,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
+    text: |+
+      *   Transform your skincare routine for radiant, glowing skin.
 
-      Gain practical and easy-to-follow advice on skincare, fitness, grooming,
-      and nutrition tailored to help you look and feel your best. Start making
-      small changes today that lead to noticeable transformations! ✨
+      *   Achieve a strong, toned body with effective fitness strategies.
+
+      *   Master the art of grooming for a polished, confident look.
+
+      *   Fuel your health and appearance with proper nutrition.
+
+
 
     actions:
       - label: Get started
