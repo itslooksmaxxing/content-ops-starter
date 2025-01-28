@@ -73,10 +73,13 @@ sections:
       - type: FeaturedItem
         title: Personalized Self-Improvement Tips
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          Gain practical and easy-to-follow advice on skincare, fitness,
+          grooming, and nutrition tailored to help you look and feel your best.
+          Start making small changes today that lead to noticeable
+          transformations! ✨
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
