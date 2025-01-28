@@ -9,7 +9,7 @@ sections:
         your peak appearance and confidence!
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Why Looksmaxxing ?
     text: |+
       *   Transform your skincare routine for radiant, glowing skin.
 
