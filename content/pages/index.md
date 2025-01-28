@@ -101,6 +101,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+          url: /images/WhatsApp Image 2025-01-28 at 5.40.57 PM.jpeg
       - title: Boost Confidence and Presence
         subtitle: The Job Stuff
         text: "\nLearn how to enhance your appearance, improve your posture, and radiate confidence in every aspect of your life—whether it’s personal, professional, or social. \U0001F4AA\n\n"
