@@ -150,10 +150,7 @@ sections:
       - type: FeaturedItem
         title: Blackpill
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "\nHardmaxxing offers dramatic physical transformations, boosts confidence, overcomes genetic limitations, maintains youthfulness, and achieves a polished appearance through advanced skincare, fitness, grooming, and cosmetic enhancements. Perfect for serious self-improvement. \U0001F4AA✨\n"
         image:
           type: ImageBlock
           url: /images/icon1.svg
